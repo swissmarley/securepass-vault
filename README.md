@@ -1,4 +1,4 @@
-# SecurePass Vault - Password Manager
+# 🔐 SecurePass Vault - Password Manager 🔐
 
 This is a simple password manager application with built-in encryption and hashing for improved security.
 
