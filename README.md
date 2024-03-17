@@ -2,6 +2,10 @@
 
 This is a simple password manager application with built-in encryption and hashing for improved security.
 
+<div align="center">
+    <img src="https://nakyaa.files.wordpress.com/2024/02/securepassvault-2.png" width="400">
+</div>
+
 ## Features
 
 ### User Profiles
