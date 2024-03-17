@@ -38,7 +38,9 @@ This is a simple password manager application with built-in encryption and hashi
 
 ## How to Run
 
-Clone the repository, install the required dependencies and run the app:
+1. Clone the repository
+2. Install the required dependencies
+3. Run the app
 
 ```bash
 git clone https://github.com/swissmarley/securepass-vault.git
